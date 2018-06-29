@@ -4,3 +4,6 @@
 [submodule "rogalik"]
 	path = rogalik
 	url = git@github.com:zefciu/rogalik.git
+[submodule "shoutbox"]
+	path = shoutbox
+	url = git@github.com:zefciu/shoutbox.git
