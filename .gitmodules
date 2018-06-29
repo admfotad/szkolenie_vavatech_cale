@@ -1,0 +1,6 @@
+[submodule "converter"]
+	path = converter
+	url = git@github.com:zefciu/converter.git
+[submodule "rogalik"]
+	path = rogalik
+	url = git@github.com:zefciu/rogalik.git
